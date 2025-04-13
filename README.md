@@ -1,20 +1,3 @@
-# Sofa Markdown Export - 4/13/25
-## The Pile
-
----
-
-## My Lists
-
-### Apps to Check Out
-
-### Books to Read
-
-### Games to Play
-- [ ] Outer Wilds (Video Game)
-
-### Movies & Shows to Watch
-
-### Summer 25 Reading List
 - [ ] The Creative Mind (Book)
 - [ ] Abstracting Craft (Book)
 - [ ] How People Learn (Book)
@@ -31,8 +14,3 @@
 - [ ] The Curious Incident of the Dog in the Night-Time (Book)
 - [ ] Making Software (Book)
 
-### Things to Listen To
-
----
-
-## Activity
