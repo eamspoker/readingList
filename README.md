@@ -10,6 +10,7 @@
 ### Books to Read
 
 ### Games to Play
+- [ ] Outer Wilds (Video Game)
 
 ### Movies & Shows to Watch
 
